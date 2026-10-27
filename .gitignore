@@ -1,0 +1,22 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.sqlite3
+staticfiles/
+media/
+
+# Node.js
+node_modules/
+dist/
+coverage/
+
+# Local configuration and operating system files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+documento/GLAB-S10-JMIRANDA-2026-02_COMPLETADO.docx
